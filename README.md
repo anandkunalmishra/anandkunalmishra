@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Softawre development and Machine Learning Projects
 - 📫 How to reach me ...<br>
-<p align='center'>
-    **LinkedIn  - https://www.linkedin.com/in/anand-kunal-mishra-964b92213/<br>
-    Gmail     - anandkunalmishra@gmail.com<br>
+<p align='left'>
+    LinkedIn  - https://www.linkedin.com/in/anand-kunal-mishra-964b92213/<br>
+    Gmail     - mailto:anandkunalmishra@gmail.com <br>
     Instagram - https://www.instagram.com/anandkunalmishra/<br>
-    Facebook  - https://www.facebook.com/anand.kunal.988/<br>**
+    Facebook  - https://www.facebook.com/anand.kunal.988/<br>
    </p>
     
 
