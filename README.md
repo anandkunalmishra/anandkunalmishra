@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive Coding and Machine Learning
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on Softawre development and Machine Learning Projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...<br>
     **LinkedIn  - https://www.linkedin.com/in/anand-kunal-mishra-964b92213/
     Gmail     - anandkunalmishra@gmail.com
     Instagram - https://www.instagram.com/anandkunalmishra/
